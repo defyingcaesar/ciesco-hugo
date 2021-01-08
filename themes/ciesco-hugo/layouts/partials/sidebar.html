@@ -1,0 +1,15 @@
+<nav class="col-md-3 d-none d-md-block bg-light sidebar">
+    <div class="sidebar-sticky pt-5">
+      <ul class="nav flex-column pl-5 pt-5">    
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <li class="nav-item pb-3 {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
+          <a class="nav-link" href="{{ .URL }}" title="{{ .Title }}">
+            <span data-feather="circle"></span>
+            {{ .Name }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </nav>

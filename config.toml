@@ -1,0 +1,53 @@
+theme = "ciesco-hugo"
+baseURL = "http://example.org/"
+languageCode = "en"
+title = "Ciesco"
+
+[menu]
+  [[menu.main]]
+    identifier = "1"
+    weight = 1
+    name = "Guest editorials"
+    url = "/"
+
+    [[menu.main]]
+    identifier = "2"
+    weight = 2
+    name = "Executive summary"
+    url = "/report/"
+    
+    [[menu.main]]
+    identifier = "3"
+    weight = 3
+    name = "Ciesco outlook"
+    url = "/#/"
+    
+    [[menu.main]]
+    identifier = "4"
+    weight = 4
+    name = "Deal Statistics"
+    url = "/#/"
+    
+    [[menu.main]]
+    identifier = "5"
+    weight = 5
+    name = "Notable deals"
+    url = "/#/"
+    
+    [[menu.main]]
+    identifier = "6"
+    weight = 6
+    name = "Buyer landscape"
+    url = "/#/"
+    
+    [[menu.main]]
+    identifier = "7"
+    weight = 7
+    name = "Geographic overview"
+    url = "/#/"
+    
+    [[menu.main]]
+    identifier = "8"
+    weight = 8
+    name = "Sectors"
+    url = "/#/"
