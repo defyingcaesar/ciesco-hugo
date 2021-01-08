@@ -71,6 +71,7 @@ body {
   }
   
   .navbar {
+    background-image: url(../images/bg-header.png);
     padding: .75rem 1rem;
     border-width: 0;
     border-radius: 0;
