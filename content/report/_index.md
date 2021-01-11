@@ -1,13 +1,13 @@
 ---
-title: "Test"
-date: 2021-01-05T22:06:40+02:00
-draft: false
----
+title: Test
+date: 2021-01-05T22:06:40.000+02:00
 
+---
 # Test Page 1
 
 {{< row >}}
 {{< column >}}
+
 ## Deal statistics
 
 With a tostal of 1,345 transactions, the overall deal
@@ -80,6 +80,7 @@ decline from their 16 deal count recorded in 2019.
 {{< /column >}}
 
 {{< column >}}
+
 ### Technology
 
 Technology firms continued their M&A activity in the
@@ -157,7 +158,6 @@ The MarTech sector, with its 126 deal count, came in third place, recording a 19
 
 {{< container-image path="images/graph.jpg" method="Fit" options="900x600 jpg q100 Smart"  alt="graph" >}}
 
-
 {{< row >}}
 {{< column >}}
 The US and UK remained the two largest markets in
@@ -190,3 +190,5 @@ on-year, now representing 38% (compared to 29% in
 2018).
 {{< /column >}}
 {{< /row >}}
+
+{{< container-image path="images/graph.jpg" method="Fit" options="900x600 jpg q100 Smart"  alt="graph" >}}
