@@ -1,7 +1,7 @@
 theme = "ciesco-hugo"
 baseURL = "//priceless-clarke-49a2d4.netlify.app/"
 languageCode = "en"
-title = "Ciesco"
+title = "2020 Global M&A Review & 2021 Outlook"
 
 [menu]
   [[menu.main]]
