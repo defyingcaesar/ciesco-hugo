@@ -25,8 +25,8 @@ h1, h2, h3, h4, h5 {
   
   .sidebar-sticky {
     border-right:2px solid #12264B;
-    margin-top:100px;
-    height: calc(100vh - 133px);
+    margin-top:75px;
+    height: calc(100vh - 140px);
     top:48px;
     padding-top: .5rem;
     position: fixed;
