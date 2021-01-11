@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>//priceless-clarke-49a2d4.netlify.app/</loc>
     <lastmod>2021-01-05T22:06:40+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/report/</loc>
+    <loc>//priceless-clarke-49a2d4.netlify.app/report/</loc>
     <lastmod>2021-01-05T22:06:40+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>//priceless-clarke-49a2d4.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>//priceless-clarke-49a2d4.netlify.app/tags/</loc>
   </url>
   
 </urlset>

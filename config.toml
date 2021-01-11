@@ -1,5 +1,5 @@
 theme = "ciesco-hugo"
-baseURL = "http://example.org/"
+baseURL = "//priceless-clarke-49a2d4.netlify.app/"
 languageCode = "en"
 title = "Ciesco"
 

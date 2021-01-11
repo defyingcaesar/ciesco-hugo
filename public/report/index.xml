@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on Ciesco</title>
-    <link>http://example.org/report/</link>
+    <link>//priceless-clarke-49a2d4.netlify.app/report/</link>
     <description>Recent content in Test on Ciesco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Jan 2021 22:06:40 +0200</lastBuildDate><atom:link href="http://example.org/report/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2021 22:06:40 +0200</lastBuildDate><atom:link href="//priceless-clarke-49a2d4.netlify.app/report/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

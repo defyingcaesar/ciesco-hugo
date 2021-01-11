@@ -147,4 +147,3 @@ witnessed the largest decline – 61% less transactions
 than the previous year.
 
 The MarTech sector, with its 126 deal count, came in third place, recording a 19% decline from 2019 levels. This was followed by Agency Services (99 deals) and Digital Agency (98 deals), both sectors experiencing deal volume declines year-on-year as well.
-
