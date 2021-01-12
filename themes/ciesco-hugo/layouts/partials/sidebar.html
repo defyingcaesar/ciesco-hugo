@@ -3,9 +3,9 @@
       <ul class="nav flex-column">    
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-        <li class="nav-item h6 {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
+        <li class="nav-item h6 menu-{{ .Identifier }} {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
           <a class="nav-link active" href="{{ .URL }}" title="{{ .Title }}">
-            <span class="toc-icon">1</span>
+            <span class="toc-icon">{{.Identifier}}</span>
             {{ .Name }}
           </a>
         </li>
