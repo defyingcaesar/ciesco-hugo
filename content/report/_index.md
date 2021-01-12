@@ -181,4 +181,5 @@ on-year, now representing 38% (compared to 29% in
 {{< /column >}}
 {{< /row >}}
 
+
 {{< container-image path="images/graph.jpg" method="Fit" options="900x600 jpg q100 Smart"  alt="graph" >}}
