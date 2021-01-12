@@ -129,3 +129,28 @@ h1, h2, h3, h4, h5 {
       max-width:100%;
       height:auto;
       }
+
+      span.toc-icon.menu-1 {
+        background: #ccd8e5;
+      }
+      span.toc-icon.menu-2 {
+        background: #86a9d3;
+      }
+      span.toc-icon.menu-3 {
+        background: #1a3663;
+      }
+      span.toc-icon.menu-4 {
+        background: #0070c0;
+      }
+      span.toc-icon.menu-5 {
+        background: #858585;
+      }
+      span.toc-icon.menu-6 {
+        background: #608cb7;
+      }
+      span.toc-icon.menu-7 {
+        background: #498ce2;
+      }
+      span.toc-icon.menu-8 {
+        background: #164888;
+      }
