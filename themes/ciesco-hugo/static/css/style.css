@@ -65,8 +65,9 @@ h1, h2, h3, h4, h5 {
     background:#88A9D4;
     text-align: center;
     margin-right:18px;
+    line-height: 35px;
     color:#fff;
-    font-size: xx-large;
+    font-size: x-large;
   }
   .sidebar-sticky ul {
     padding-left:0 !important;
