@@ -51,3 +51,5 @@ title = "2020 Global M&A Review & 2021 Outlook"
     weight = 8
     name = "Sectors"
     url = "/#/"
+
+googleAnalytics = "UA-xxxxx-1"
