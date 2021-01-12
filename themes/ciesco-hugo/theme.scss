@@ -1,0 +1,14 @@
+$body-bg: #fefefe;
+$body-color: #111;
+
+
+$theme-colors: (
+  "primary": #693bbd,
+  "danger": #ff4136
+);
+
+$enable-rounded: false;
+$enable-shadows: false;
+$enable-gradients: false;
+
+@import "bootstrap/scss/bootstrap";
