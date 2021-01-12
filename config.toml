@@ -21,35 +21,35 @@ googleAnalytics = "UA-xxxxx-1"
     identifier = "3"
     weight = 3
     name = "Ciesco outlook"
-    url = "/#/"
+    url = "/report/ciesco-outlook/"
     
     [[menu.main]]
     identifier = "4"
     weight = 4
     name = "Deal Statistics"
-    url = "/#/"
+    url = "/report/deal-statistics/"
     
     [[menu.main]]
     identifier = "5"
     weight = 5
     name = "Notable deals"
-    url = "/#/"
+    url = "/report/notable-deals/"
     
     [[menu.main]]
     identifier = "6"
     weight = 6
     name = "Buyer landscape"
-    url = "/#/"
+    url = "/report/buyer-landscape/"
     
     [[menu.main]]
     identifier = "7"
     weight = 7
     name = "Geographic overview"
-    url = "/#/"
+    url = "/report/geographic-overview/"
     
     [[menu.main]]
     identifier = "8"
     weight = 8
     name = "Sectors"
-    url = "/#/"
+    url = "/report/sectors/"
 
