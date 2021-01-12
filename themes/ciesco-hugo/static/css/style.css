@@ -8,6 +8,7 @@ body {
 h1, h2, h3, h4, h5 {
   font-family:'Raleway', sans-serif;
   font-weight: 700;
+  color:#12264B;
 }
   /*
    * Sidebar
@@ -24,6 +25,7 @@ h1, h2, h3, h4, h5 {
   }
   
   .sidebar-sticky {
+    max-width:25%;
     border-right:2px solid #12264B;
     margin-top:75px;
     height: calc(100vh - 140px);
@@ -114,10 +116,8 @@ h1, h2, h3, h4, h5 {
   }
   
 
-  @media (min-width: 992px) {
+  @media (min-width: 1350px) {
     .main-content {
-      padding-left:60px !important;
-      padding-right:60px !important;
-    }  
-
-  }
+       padding-right: 60px !important;
+    }
+    }
