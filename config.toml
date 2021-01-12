@@ -5,17 +5,17 @@ title = "2020 Global M&A Review & 2021 Outlook"
 googleAnalytics = "UA-xxxxx-1"
 
 [menu]
-  [[menu.main]]
+    [[menu.main]]
     identifier = "1"
     weight = 1
     name = "Guest editorials"
-    url = "/"
+    url = "/report/guest-editorials/"
 
     [[menu.main]]
     identifier = "2"
     weight = 2
     name = "Executive summary"
-    url = "/report/"
+    url = "/report/executive-summary/"
     
     [[menu.main]]
     identifier = "3"

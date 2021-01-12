@@ -1,13 +1,9 @@
 ---
-title: Test
-identifier: "1"
+title: Guest Editorials
 date: 2021-01-05T22:06:40.000+02:00
-
+url: /report/guest-editorials/
 ---
-# Executive Summary
-
-{{< row >}}
-{{< column >}}
+# Guest Editorials
 
 ## Deal statistics
 
@@ -67,9 +63,6 @@ projects being postponed or put on hold.
 Nevertheless, Accenture was again at the forefront of
 this activity, making 12 acquisitions in 2020, a slight
 decline from their 16 deal count recorded in 2019.
-{{< /column >}}
-
-{{< column >}}
 
 ### Technology
 
@@ -143,43 +136,5 @@ witnessed the largest decline – 61% less transactions
 than the previous year.
 
 The MarTech sector, with its 126 deal count, came in third place, recording a 19% decline from 2019 levels. This was followed by Agency Services (99 deals) and Digital Agency (98 deals), both sectors experiencing deal volume declines year-on-year as well.
-{{< /column >}}
-{{< /row >}}
 
-{{< container-image path="images/graph.jpg" method="Fit" options="900x600 jpg q100 Smart"  alt="graph" >}}
-
-{{< row >}}
-{{< column >}}
-The US and UK remained the two largest markets in
-terms of deal volume, with targets from these
-countries accounting for 50% and 16% respectively,
-of overall deal volume. Both UK and North America
-experienced growth in deal activity in 2019, whilst
-previously strong performing regions, like LatAm,
-APAC and Africa, all saw significant declines. In
-Western Europe, Spain and Netherlands witnessed the
-highest increase in deal volume year-on-year (with
-180% and 95% increases respectively). The
-proportion of cross-border deals also increased year-
-on-year, now representing 38% (compared to 29% in
-2018).
-{{< /column >}}
-{{< column >}}
-The US and UK remained the two largest markets in
-terms of deal volume, with targets from these
-countries accounting for 50% and 16% respectively,
-of overall deal volume. Both UK and North America
-experienced growth in deal activity in 2019, whilst
-previously strong performing regions, like LatAm,
-APAC and Africa, all saw significant declines. In
-Western Europe, Spain and Netherlands witnessed the
-highest increase in deal volume year-on-year (with
-180% and 95% increases respectively). The
-proportion of cross-border deals also increased year-
-on-year, now representing 38% (compared to 29% in
-2018).
-{{< /column >}}
-{{< /row >}}
-
-
-{{< container-image path="images/graph.jpg" method="Fit" options="900x600 jpg q100 Smart"  alt="graph" >}}
+{{< container-image path="images/graph.jpg" >}}
