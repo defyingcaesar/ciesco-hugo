@@ -4,7 +4,7 @@ date: 2021-01-05T22:06:40.000+02:00
 ---
 # Foreword
 
-## Deal statistics
+## Text below is a placeholder
 
 With a total of 1,345 transactions, the overall deal volume in 2019 fell slightly when compared to previous year, a 3.4% decline from the record high of 2018 when 1,392 deals were recorded. Similarly, the total value of deals with disclosed values reached $140.4bn, a much lower value than the record high of $304bn seen in 2018. If the total value is adjusted to exclude any mega-deals (deals with values over $10bn), then the total value of deals with disclosed values in 2019 stood at $112.4bn, surpassing the previously record high of $85.6bn reached in 2018, or a 31.4% increase over the 2018 levels.
 
