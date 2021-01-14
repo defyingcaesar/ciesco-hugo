@@ -11,4 +11,4 @@
     {{ .Scratch.Set "modified-image" ($image.Resize $options) }}
 {{ end }}
 
-<img src='{{ (.Scratch.Get "modified-image").Permalink }}' alt='{{ .Get "alt" }}'>
+<img class="" src='{{ (.Scratch.Get "modified-image").Permalink }}' alt='{{ .Get "alt" }}'>
