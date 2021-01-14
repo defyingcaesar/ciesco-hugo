@@ -3,53 +3,48 @@ baseURL = "//priceless-clarke-49a2d4.netlify.app/"
 languageCode = "en"
 title = "2020 Global M&A Review & 2021 Outlook"
 googleAnalytics = "UA-xxxxx-1"
-
+disableRss = true
+sectionPagesMenu = "main"
 [menu]
     [[menu.main]]
     identifier = "1"
     weight = 1
-    name = "Guest editorials"
-    url = "/report/guest-editorials/"
+    name = "Guest Editorials"
+    url = "/guest-editorials/"
 
     [[menu.main]]
     identifier = "2"
     weight = 2
-    name = "Executive summary"
-    url = "/report/executive-summary/"
+    name = "Executive Summary"
+    url = "/executive-summary/"
     
     [[menu.main]]
     identifier = "3"
     weight = 3
-    name = "Ciesco outlook"
-    url = "/report/ciesco-outlook/"
+    name = "Ciesco Outlook"
+    url = "/ciesco-outlook/"
     
     [[menu.main]]
     identifier = "4"
     weight = 4
     name = "Deal Statistics"
-    url = "/report/deal-statistics/"
+    url = "/deal-statistics/"
     
     [[menu.main]]
     identifier = "5"
     weight = 5
-    name = "Notable deals"
-    url = "/report/notable-deals/"
+    name = "Buyer Landscape"
+    url = "/buyer-landscape/"
     
     [[menu.main]]
     identifier = "6"
     weight = 6
-    name = "Buyer landscape"
-    url = "/report/buyer-landscape/"
+    name = "Geographic Overview"
+    url = "/geographic-overview/"
     
     [[menu.main]]
     identifier = "7"
     weight = 7
-    name = "Geographic overview"
-    url = "/report/geographic-overview/"
-    
-    [[menu.main]]
-    identifier = "8"
-    weight = 8
     name = "Sectors"
-    url = "/report/sectors/"
+    url = "/sectors/"
 

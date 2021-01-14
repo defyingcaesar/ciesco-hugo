@@ -1,7 +1,8 @@
 ---
 title: "Deal Statistics"
-date: 2021-01-12T23:10:57+02:00
-draft: true
+draft: false
+weight: 40
+url: /deal-statistics/
 ---
 
 # Deal statistics
@@ -21,13 +22,28 @@ Excluding this mega-deal, the total disclosed deal value in 2020 was $55.9bn, a 
 
 {{< /column >}}
 {{< /row >}}
-<br/>
+
+{{< row >}}
+</br></br>
+{{< /row >}}
 
 {{< container-image path="images/flowchart1.png" method="Fit" options="900x600 jpg q100 Smart"  alt="graph" >}}
 
+{{< row >}}
+</br></br>
+{{< /row >}}
+
 {{< container-image path="images/figure-1-deal-statistics.png" method="Fit" options="900x600 jpg q100 Smart"  alt="graph-1" >}}
 
+{{< row >}}
+</br></br>
+{{< /row >}}
+
 {{< container-image path="images/figure-2-deal-statistics.png" method="Fit" options="900x600 jpg q100 Smart"  alt="graph-2" >}}
+
+{{< row >}}
+</br></br>
+{{< /row >}}
 
 {{< row >}}
 
@@ -43,9 +59,15 @@ During Q3 and Q4 2020, the market managed to slightly bounce back, but deal volu
 
 {{< /row >}}
 
+{{< row >}}
+</br></br>
+{{< /row >}}
 
 {{< container-image path="images/figure-3-deal-statistics.png" method="Fit" options="900x600 jpg q100 Smart"  alt="graph-3" >}}
-<br/>
+
+{{< row >}}
+</br></br>
+{{< /row >}}
 
 ## Notable deals
 
@@ -61,6 +83,10 @@ There was one mega deal (deals with values over $10bn) announced in the focus se
 Last year, there were two notable deals - the acquisition of the MarTech platform Tableau Software, by Salesforce for $15.9bn, and the acquisition of the international media conglomerate Viacom by CBS for $11.2bn.
 {{< /column >}}
 
+{{< /row >}}
+
+{{< row >}}
+</br></br>
 {{< /row >}}
 
 {{< container-image path="images/table-1-deal-statistics.png" method="Fit" options="900x600 jpg q100 Smart"  alt="graph-3" >}}

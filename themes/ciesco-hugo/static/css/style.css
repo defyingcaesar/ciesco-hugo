@@ -10,6 +10,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   color:#12264B;
 }
+h1 {
+  margin-bottom:25px;
+}
+
+  
   /*
    * Sidebar
    */
@@ -116,7 +121,14 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 0;
     display: block!important;
   }
-  
+
+  .navbar .h4 {
+    Margin-bottom:0;
+    }
+    
+  .main-content {
+    padding-top:30px;    
+    }
 
   @media (min-width: 1350px) {
     .main-content {
@@ -129,6 +141,23 @@ h1, h2, h3, h4, h5, h6 {
       max-width:100%;
       height:auto;
       }
+  
+.full-image {
+        Display:block;
+        max-width:100%;
+        Height:auto;
+        margin:40px 0;
+    }
+
+    .main-content p, .main-content li {
+      Font-size:0.95rem;
+      line-height:1.7;
+  }
+  .main-content h6 {
+  Line-height:1.7;
+  }
+  
+  
 
       span.toc-icon.menu-1 {
         background: #ccd8e5;
