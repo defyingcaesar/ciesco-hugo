@@ -3,7 +3,6 @@ title: Guest Editorials
 weight: 70
 draft: false
 url: /guest-editorials/
-menu: side
 ---
 # Guest Editorials
 
@@ -60,8 +59,6 @@ With £1.2bn to invest over the next three years, we are committed to backing th
 
 {{< column >}}
 No single 12-month period has brought about more alterations to consumer behaviour and expectations than 2020. It was a year that revealed how few businesses truly knew their individual customers, as well as throwing into sharp relief digital gaps in brands’ ways of working. This has created two high-profile trends for businesses that will transcend this pandemic: one will manifest as a drive in D2C focus for most brands to get closer to their customers, and the second is the development of adaptive behaviours, a.k.a. transformation – how the business works and responds to change.
-
-Shifting the business narrative to doing the right things for customers to meet individual needs requires the linking of experiences across marketing, commerce, sales, service and any part of the business that touches the consumer. Delivering this customer experience transformation should be framed through the realisation of hyper-personalised moments; deploying data, technology, and analytics to inform each interaction, through every channel. To accomplish this, businesses must have a plan for how to grow, administer, and deliver a customer-centric approach.
 
 Shifting the business narrative to doing the right things for customers to meet individual needs requires the linking of experiences across marketing, commerce, sales, service and any part of the business that touches the consumer. Delivering this customer experience transformation should be framed through the realisation of hyper-personalised moments; deploying data, technology, and analytics to inform each interaction, through every channel. To accomplish this, businesses must have a plan for how to grow, administer, and deliver a customer-centric approach.
 
