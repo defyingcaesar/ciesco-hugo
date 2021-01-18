@@ -7,7 +7,7 @@
         <div class="container-fluid">
           <div class="row">
             {{ partial "sidebar.html" . }}
-            {{ partial "content.html" . }}
+            {{- block "main" . }}{{- end }}
           </div>
         </div>
   

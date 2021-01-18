@@ -1,9 +1,10 @@
 <nav class="col-md-3 d-none d-md-block sidebar">
     <div class="sidebar-sticky">
-      <ul class="nav flex-column">    
+      <ul class="nav flex-column">   
+         {{/* Active class & sidebar menu config   */}}
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-        <li class="nav-item h6 {{ if or ($currentPage.IsMenuCurrent "side" .) ($currentPage.HasMenuCurrent "side" .) }}active{{ end }}">
+        <li class="nav-item h6 {{ if (eq $currentPage.Params.url .URL) }} active{{ end }}">
           <a class="nav-link active" href="{{ .URL }}" title="{{ .Title }}">
             <span class="toc-icon menu-{{ .Identifier }}">{{.Identifier}}</span>
             {{ .Name }}
