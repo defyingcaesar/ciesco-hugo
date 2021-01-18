@@ -17,13 +17,13 @@
       
             <div class="row">
               <div class="col-md-6 col-sm-6 text-center">
-                {{ if .Prev }}
+                {{ if .Next }}
                   Previous Chapter:
                   <a href="{{ .Prev.Permalink | relURL}}">{{ .Prev.Title | markdownify }}</a>
                 {{ end }}
               </div>
               <div class="col-md-6 col-sm-6 text-center">
-                {{ if .Next }}
+                {{ if .Prev }}
                   Next Chapter:
                   <a href="{{ .Next.Permalink | relURL }}">{{ .Next.Title | markdownify }}</a>
                 {{ end }}
