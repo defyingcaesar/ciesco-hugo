@@ -3,17 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//priceless-clarke-49a2d4.netlify.app/</loc>
-    <lastmod>2021-01-05T22:06:40+02:00</lastmod>
+    <loc>//priceless-clarke-49a2d4.netlify.app/sectors/</loc>
   </url>
   
   <url>
-    <loc>//priceless-clarke-49a2d4.netlify.app/report/</loc>
-    <lastmod>2021-01-05T22:06:40+02:00</lastmod>
+    <loc>//priceless-clarke-49a2d4.netlify.app/geographic-overview/</loc>
+  </url>
+  
+  <url>
+    <loc>//priceless-clarke-49a2d4.netlify.app/buyer-landscape/</loc>
+  </url>
+  
+  <url>
+    <loc>//priceless-clarke-49a2d4.netlify.app/deal-statistics/</loc>
+  </url>
+  
+  <url>
+    <loc>//priceless-clarke-49a2d4.netlify.app/ciesco-outlook/</loc>
+  </url>
+  
+  <url>
+    <loc>//priceless-clarke-49a2d4.netlify.app/executive-summary/</loc>
+  </url>
+  
+  <url>
+    <loc>//priceless-clarke-49a2d4.netlify.app/guest-editorials/</loc>
   </url>
   
   <url>
     <loc>//priceless-clarke-49a2d4.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>//priceless-clarke-49a2d4.netlify.app/</loc>
   </url>
   
   <url>

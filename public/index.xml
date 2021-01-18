@@ -1,11 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Executive Summary on 2020 Global M&amp;A Review &amp; 2021 Outlook</title>
+    <title>Foreword on 2020 Global M&amp;A Review &amp; 2021 Outlook</title>
     <link>//priceless-clarke-49a2d4.netlify.app/</link>
-    <description>Recent content in Executive Summary on 2020 Global M&amp;A Review &amp; 2021 Outlook</description>
+    <description>Recent content in Foreword on 2020 Global M&amp;A Review &amp; 2021 Outlook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 05 Jan 2021 22:06:40 +0200</lastBuildDate><atom:link href="//priceless-clarke-49a2d4.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="//priceless-clarke-49a2d4.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sectors</title>
+      <link>//priceless-clarke-49a2d4.netlify.app/sectors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//priceless-clarke-49a2d4.netlify.app/sectors/</guid>
+      <description>Sectors </description>
+    </item>
+    
+    <item>
+      <title>Geographic Overview</title>
+      <link>//priceless-clarke-49a2d4.netlify.app/geographic-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//priceless-clarke-49a2d4.netlify.app/geographic-overview/</guid>
+      <description>Geographic Overview </description>
+    </item>
+    
+    <item>
+      <title>Buyer Landscape</title>
+      <link>//priceless-clarke-49a2d4.netlify.app/buyer-landscape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//priceless-clarke-49a2d4.netlify.app/buyer-landscape/</guid>
+      <description>Buyer Landscape In 2020, the list of Top 10 most active acquirers in terms of the number of their acquisitions in the focus sector, is dominated by Private Equity firms, and features a mix of consultancies, tech companies, holding networks and mid-market groups. With a combined 66 deals in total, the Top 10 Most Active Buyers in 2020 stand at just 6.3% of total transactions in the sector. Compared to the 84 acquisitions completed by the 2019 Top 10 buyers, this year’s 66 deal count shows a 21% decline, amid the turbulent market conditions in 2020.</description>
+    </item>
+    
+    <item>
+      <title>Deal Statistics</title>
+      <link>//priceless-clarke-49a2d4.netlify.app/deal-statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//priceless-clarke-49a2d4.netlify.app/deal-statistics/</guid>
+      <description>Deal statistics 2020 saw a significant decline in the deal volume for M&amp;amp;A in the technology, digital, media, and marketing sectors. With 1,091 transactions recorded in 2020, the sector experienced a 19% drop over 2019 levels, well below the average 1,241 deals per annum recorded over the last 5 years’ period. This has largely been driven by the COVID-19 impact on buyer confidence, valuations and financing issues, compounded by the need to adjust to the “new normal” and significant changes in consumer behaviour Despite the business uncertainty caused by the coronavirus crisis, 2020 was a more eventful year for the M&amp;amp;A activity than may have been expected.</description>
+    </item>
+    
+    <item>
+      <title>Ciesco Outlook</title>
+      <link>//priceless-clarke-49a2d4.netlify.app/ciesco-outlook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//priceless-clarke-49a2d4.netlify.app/ciesco-outlook/</guid>
+      <description>Ciesco Outlook </description>
+    </item>
+    
+    <item>
+      <title>Executive Summary</title>
+      <link>//priceless-clarke-49a2d4.netlify.app/executive-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//priceless-clarke-49a2d4.netlify.app/executive-summary/</guid>
+      <description>Executive Summary Deal statistics 2020 saw a significant decline in the deal volume for mergers and acquisitions in the technology, digital, media and marketing sectors. With 1,091 transactions recorded in 2020, the sector experienced a 19% drop over 2019 levels, well below the average 1,241 deals per annum recorded over the last 5-years’ period. This has largely been driven by the COVID-19 impact on buyer confidence, valuations and financing issues, compounded by the need to adjust to the “new normal” and significant changes in consumer behaviour.</description>
+    </item>
+    
+    <item>
+      <title>Guest Editorials</title>
+      <link>//priceless-clarke-49a2d4.netlify.app/guest-editorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//priceless-clarke-49a2d4.netlify.app/guest-editorials/</guid>
+      <description>Guest Editorials   Private equity partnership will be key to unlocking growth for tech firms in 2021 While COVID-19 has created new challenges to overcome in every sector, on the whole, technology has remained resilient throughout, with new opportunities emerging.
+The pandemic has demonstrated that we are more reliant on technology and digital services than ever. Technology has become synonymous with agile working, and new tools designed to boost productivity, collaboration and engagement are now key investment priorities for many.</description>
+    </item>
+    
   </channel>
 </rss>
