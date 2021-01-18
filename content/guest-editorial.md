@@ -6,10 +6,6 @@ url: /guest-editorials/
 ---
 # Guest Editorials
 
-{{< row >}}
-</br></br>
-{{< /row >}}
-
 ## Private equity partnership will be key to unlocking growth for tech firms in 2021
 
 {{< container-image path="images/1-guest-editorials.png" method="Fit" options="900x600 jpg q100 Smart"  alt="ge-1" >}}
@@ -33,6 +29,7 @@ And in July 2020, we supported the merger of DoubleEdge Professional Services, F
 
 {{< /column >}}
 {{< column >}}
+
 ###### Growing in partnership
 
 But it’s not just about the up-front investment. Our backing can help management teams target international expansion, grow through acquisition, and roll out new products and services – and the successes of our portfolio speak for themselves. 

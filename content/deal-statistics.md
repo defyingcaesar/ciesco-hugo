@@ -90,3 +90,23 @@ Last year, there were two notable deals - the acquisition of the MarTech platfor
 {{< /row >}}
 
 {{< container-image path="images/table-1-deal-statistics.png" method="Fit" options="900x600 jpg q100 Smart"  alt="graph-3" >}}
+
+{{< row >}}
+
+{{< column >}}
+The steady interest from private equity buyers in the martech/digital experience software space has continued in 2020 as well, pushing Private Equity investments since 2016 over the $118.9bn mark. 
+
+We saw Dentsu complete its purchase of the remaining 34% of Merkle in April, ahead of the original 2021 buyout date. Since being bought by Dentsu, originally a 66% stake in August 2016, Merkle has maintained its own growth agenda and acquirer brand. 
+
+However, as a major restructuring programme moves it closer to the integrated “One Dentsu” approach, it will be interesting to see how Merkle maintains its appeal as a home for independent agency leaders – especially in light of the recently announced Dentsu International restructuring.
+{{< /column >}}
+
+{{< column >}}
+The video-gaming industry saw some of the highest-value deals of 2020. One of the most significant deals was the acquisition of The Stars Group by Flutter, the company behind the well-known video gaming providers PaddyPower, Betfair, Sportsbet, TGV, FanDuel etc. The transaction will benefit the combined organisations’ international presence, strengthening the company during this uncertain year.
+
+Likewise, the acquisition of Turkey-based game developer Peak, which has launched several successful mobile games including Toon Blast and Toy Blast, by the San Francisco-based social games pioneer Zynga,  supports the comeback of the latter, which went through a few turbulent years after its IPO in 2011.
+
+Also, Microsoft acquired ZeniMax Media with its game publishing arm Bethesda Softworks, adding to its creative studio portfolio Bethesda’s successful cloud-gaming services, in light of the Peak in the gaming industry.
+{{< /column >}}
+
+{{< /row >}}
