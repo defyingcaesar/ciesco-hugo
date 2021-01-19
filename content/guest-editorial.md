@@ -77,43 +77,6 @@ One final trend to consider is the increased focus on social good for all busine
 </br></br>
 {{< /row >}}
 
-## From 2020 to 2021 – a move towards the Business of Experience
-
-{{< container-image path="images/3-guest-editorials.png" method="Fit" options="900x600 jpg q100 Smart"  alt="ge-1" >}}
-
-{{< row >}}
-
-{{< column >}}
-It is difficult to overstate quite how transformative 2020 was. In a matter of weeks, almost everything that we do – how people buy, how they work, how they interact with others – was turned on its head.
-
-In many respects, 2020 only accelerated trends that were developing long before the onset of Covid-19; businesses have always looked for new ways to remain relevant, build followings, and matter to people
-
-But the pandemic amplified demand for new approaches. Our research found that 77% of CEOs now believe they will have to fundamentally rethink how they interact and engage with their customers.
-
-Far from being temporary, we expect this appetite will only increase as we move into 2021 and firms move away from thinking in terms of Customer Experience and embrace a mindset we’ve identified as the Business of Experience.
-
-
-Brands are fundamentally built through experience. Today, it’s less about interrupting people’s lives with paid-for media and more about being relevant within their lives with a clear sense of purpose.
-
-{{< /column >}}
-
-{{< column >}}
-The true experience champions don't just focus on incremental improvements to the customer interface; they align all aspects of their business with the customer.
-
-The Business of Experience involves embedding this thinking throughout your business and restructuring it around delivering exceptional experiences for you customers. It’s a new way of working that requires a business to stop thinking of Customer Experience as a workstream for the CMO.
-
-It’s a shift away from making people want things, to making things people want; from focusing on the product the company wants to sell, to focusing on the outcome the customer wants. This shapes everything from how you talk to your customers and staff, to the platforms they experience and the products they use.
-
-And it’s an approach that is helping businesses pivot back to growth. Our research found that firms built around a Business-of-Experience mindset outperform their peers six times in year-on-year profitability.
-
-In the months ahead, companies across all industries will be looking to find new ways to grow. We believe the Business of Experience is going to be an incredible engine for meaningful disruption, market differentiation and customer satisfaction.
-{{< /column >}}
-{{< /row >}}
-
-{{< row >}}
-</br></br>
-{{< /row >}}
-
 ## A view from America
 
 {{< container-image path="images/4-guest-editorials.png" method="Fit" options="900x600 jpg q100 Smart"  alt="ge-1" >}}
@@ -172,3 +135,43 @@ hurting and divided as a nation, but I’m hopeful
 brighter days are ahead of us all.
 {{< /column >}}
 {{< /row >}}
+
+
+## From 2020 to 2021 – a move towards the Business of Experience
+
+{{< container-image path="images/3-guest-editorials.png" method="Fit" options="900x600 jpg q100 Smart"  alt="ge-1" >}}
+
+{{< row >}}
+
+{{< column >}}
+It is difficult to overstate quite how transformative 2020 was. In a matter of weeks, almost everything that we do – how people buy, how they work, how they interact with others – was turned on its head.
+
+In many respects, 2020 only accelerated trends that were developing long before the onset of Covid-19; businesses have always looked for new ways to remain relevant, build followings, and matter to people
+
+But the pandemic amplified demand for new approaches. Our research found that 77% of CEOs now believe they will have to fundamentally rethink how they interact and engage with their customers.
+
+Far from being temporary, we expect this appetite will only increase as we move into 2021 and firms move away from thinking in terms of Customer Experience and embrace a mindset we’ve identified as the Business of Experience.
+
+
+Brands are fundamentally built through experience. Today, it’s less about interrupting people’s lives with paid-for media and more about being relevant within their lives with a clear sense of purpose.
+
+{{< /column >}}
+
+{{< column >}}
+The true experience champions don't just focus on incremental improvements to the customer interface; they align all aspects of their business with the customer.
+
+The Business of Experience involves embedding this thinking throughout your business and restructuring it around delivering exceptional experiences for you customers. It’s a new way of working that requires a business to stop thinking of Customer Experience as a workstream for the CMO.
+
+It’s a shift away from making people want things, to making things people want; from focusing on the product the company wants to sell, to focusing on the outcome the customer wants. This shapes everything from how you talk to your customers and staff, to the platforms they experience and the products they use.
+
+And it’s an approach that is helping businesses pivot back to growth. Our research found that firms built around a Business-of-Experience mindset outperform their peers six times in year-on-year profitability.
+
+In the months ahead, companies across all industries will be looking to find new ways to grow. We believe the Business of Experience is going to be an incredible engine for meaningful disruption, market differentiation and customer satisfaction.
+{{< /column >}}
+{{< /row >}}
+
+{{< row >}}
+</br></br>
+{{< /row >}}
+
+
