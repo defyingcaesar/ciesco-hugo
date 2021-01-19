@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  margin-bottom:25px;
+  margin-bottom: 40px;
 }
 
 img {
@@ -130,7 +130,7 @@ img {
   }
 
   .navbar .h4 {
-    Margin-bottom:0;
+    margin-bottom:0;
     }
     
   .main-content {
@@ -138,28 +138,32 @@ img {
     }
 
   @media (min-width: 1350px) {
-    .main-content {
-       padding-right: 60px !important;
-    }
-    }
+    .main-content {padding-right: 60px !important;}
+  }
   
 .full-image {
-        Display:block;
-        max-width:100%;
-        Height:auto;
-        margin:40px 0;
+  display:block;
+  max-width:100%;
+  height:auto;
+  margin:40px 0;
     }
 
-    .main-content p, .main-content li {
-      Font-size:0.95rem;
-      line-height:1.7;
+  .main-content p, .main-content li {
+    font-size:0.95rem;
+    line-height:1.7;
   }
   .main-content h6 {
-  Line-height:1.7;
+    line-height:1.7;
+  }
+
+  /* Footer */
+
+  .footer {
+    margin-bottom: 15px;
+    margin-top: 100px;
   }
   
-  
-/* apologies for this mess below */
+/* Table of content Icons */
 span.toc-icon.menu-1 {background: #ccd8e5;}
 span.toc-icon.menu-2 {background: #86a9d3;}
 span.toc-icon.menu-3 {background: #1a3663;}
@@ -169,3 +173,4 @@ span.toc-icon.menu-6 {background: #608cb7;}
 span.toc-icon.menu-7 {background: #498ce2;}
 span.toc-icon.menu-8 {background: #164888;}
 
+  
