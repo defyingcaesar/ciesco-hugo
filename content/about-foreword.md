@@ -1,7 +1,7 @@
 ---
 title: About & Foreword
 url: "/about-foreword/"
-weight: 5
+weight: 80
 ---
 # Foreword
 
