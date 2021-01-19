@@ -71,3 +71,7 @@ This year you will note a new, improved format of our
 report. We are also pleased to include four guest
 editorials various industry leaders across different
 target and buyer sectors and categories.
+
+{{< container-image path="images/chris-sahota.png" method="Fit" options="400x600 jpg q100 Smart"  alt="buyer-landscape" >}}
+
+###### Chris Sahota Founder & CEO
