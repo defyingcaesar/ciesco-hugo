@@ -30,7 +30,7 @@ And in July 2020, we supported the merger of DoubleEdge Professional Services, F
 {{< /column >}}
 {{< column >}}
 
-###### Growing in partnership
+###### Championing expansion
 
 But it’s not just about the up-front investment. Our backing can help management teams target international expansion, grow through acquisition, and roll out new products and services – and the successes of our portfolio speak for themselves. 
 Take Texthelp, the leading global provider of literacy and numeracy assistive technologies. Over an 18-month partnership, we helped Texthelp expand its footprint across North America, shift its marketing strategy from nearly 100% events focused to 100% digital, revamp its pricing and discounting strategies and launch its new cloud-based writing assessment tool WriQ, all whilst growing revenues by 40 per cent.  This led to a highly successful onward sale transaction for all parties to a secondary PE Buyer, Five Arrows Principal Investments in December 2020, where Texthelp plans to continue its global expansion as well as its new product development pipeline.
