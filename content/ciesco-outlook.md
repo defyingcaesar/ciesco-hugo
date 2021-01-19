@@ -7,10 +7,6 @@ url: /ciesco-outlook/
 
 # Ciesco Outlook
 
-{{< row >}}
-</br></br>
-{{< /row >}}
-
 
 {{< container-image path="images/blockquote-1.png" method="Fit" options="900x600 jpg q100 Smart"  alt="ge-1" >}}
 
