@@ -174,4 +174,15 @@ span.toc-icon.menu-6 {background: #608cb7;}
 span.toc-icon.menu-7 {background: #498ce2;}
 span.toc-icon.menu-8 {background: #164888;}
 
-  
+#jumbo {
+  background-image: url(https://raw.githubusercontent.com/defyingcaesar/google-homepage/master/home.jpg)!important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  margin-bottom: 0px;
+}
+
+.sign-up {
+  border-radius: 8px;
+}
