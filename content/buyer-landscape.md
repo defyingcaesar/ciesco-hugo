@@ -4,11 +4,11 @@ draft: false
 weight: 30
 url: /buyer-landscape/
 ---
-
+# Buyer Landscape
 
 {{< row >}}
 {{< column >}}
-# Buyer Landscape
+## Most active buyers
 
 In 2020, the list of Top 10 most active acquirers in terms of the number of their acquisitions in the focus sector, is dominated by Private Equity firms, and features a mix of consultancies, tech companies, holding networks and mid-market groups. With a combined 66 deals in total, the Top 10 Most Active Buyers in 2020 stand at just 6.3% of total transactions in the sector. Compared to the 84 acquisitions completed by the 2019 Top 10 buyers, this year’s 66 deal count shows a 21% decline, amid the turbulent market conditions in 2020.
 
@@ -29,14 +29,11 @@ S4 Capital, the acquisition vehicle of Sir Martin Sorrell, made a few headlines 
 
 {{< column >}}
 
-{{< container-image path="images/buyer-landscape-table.png" method="Fit" options="400x600 jpg q100 Smart"  alt="buyer-landscape" >}}
+{{< container-image path="images/buyer-landscape-table.png" method="Fit" options="400x400 png q100 Smart"  alt="buyer-landscape" >}}
 
 {{< /column >}}
 
 {{< /row >}}
-
-<!-- Circle graphics here -->
-<!-- Circle graphics here x2 -->
 
 # Global holding networks
 
