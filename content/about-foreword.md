@@ -75,3 +75,28 @@ target and buyer sectors and categories.
 {{< container-image path="images/chris-sahota.png" method="Fit" options="400x600 jpg q100 Smart"  alt="buyer-landscape" >}}
 
 ###### Chris Sahota Founder & CEO
+
+
+{{< row >}}
+
+{{< column >}}
+
+#### About Ciesco
+
+Ciesco is a leading specialist M&A firm with a focus on the technology, digital, media and marketing sectors. Headquartered in London, we have offices in Germany and France and operate globally. Ciesco offers a unique combination at partnership level, of senior level industry practitioners and sector specialist investment bankers. This enables an extensive network of contacts and strong relationships that reach into organisations worldwide at C-suite sponsor levels. We are well-regarded in the market for our specialist advice derived from our deep understanding of the sector, industry and buyer landscape insights, and execution expertise
+
+
+{{< /column >}}
+
+{{< column >}}
+
+#### About Pitchbook
+
+PitchBook is a financial data and software company with offices in London, New York, San Francisco and Seattle. Serving clients in 19 languages, they provide thousands of global business professionals with comprehensive data on the private and public markets - including companies, investors, funds, investments, exits and people, providing users with the tools they need to discover better opportunities, work more efficiently and make more informed decisions.
+
+#### About Bird & Bird
+
+Bird&Bird is an international law firm, with a focus on helping clients being changed by technology and the digital world. Through their 1,300 lawyers across 30 offices globally, they take a single-minded approach to advising clients, helping them succeed and by thinking innovatively. The firm is well-known for its intellectual property work
+
+{{< /column >}}
+{{< /row >}}
