@@ -187,3 +187,8 @@ span.toc-icon.menu-8 {background: #164888;}
 .sign-up {
   border-radius: 8px;
 }
+
+b.strong {
+  font-weight: bold;
+  color: #12264b;
+}
