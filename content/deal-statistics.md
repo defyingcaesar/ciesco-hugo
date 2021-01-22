@@ -63,6 +63,7 @@ During Q3 and Q4 2020, the market managed to slightly bounce back, but deal volu
 {{< row >}}
 
 {{< column >}}
+
 ###### Only 13 acquisitions above the $1bn threshold were announced in 2020, a significant decrease from the 28 announced in the previous year.
 
 There was one mega deal (deals with values over $10bn) announced in the focus sector in 2020 - Salesforce, the number one provider of CRM software solutions and enterprise cloud computing globally, acquired Slack, in a $27.7bn deal which enhances Salesforce enterprise software offering, at a time when digitalization and the ability to work remotely is key. This transaction will create strong synergies for both organisations increasing agility and reducing complexity.
