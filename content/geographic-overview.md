@@ -50,6 +50,8 @@ Further significant deals include the $956m acquisition of the video game develo
 
 {{< column >}}
 
+{{< container-image path="images/geographic-overview-left.png" method="Fit" options="400x240 png q100 Smart"  alt="geo" >}}
+
 ##### Western Europe
 
 Western European Countries experienced a slight year-on-year decline of 8%, with France leading the deal flow, followed by Germany and Netherlands with 54, 51 and 33 deals respectively, representing 54% of the regional activity. A remarkable transaction was the acquisition of the audiovisual content specialist, Lagardère Studios by the French media conglomerate Mediawan for $112m. The transaction will allow Lagardère to focus entirely on its publishing and travel retail divisions. In Germany, the Frankfurt-based 60-people game developer Deck13.
