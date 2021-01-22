@@ -181,3 +181,33 @@ Throughout the last financial year, ending on 30 June 2020, the Serviceplan Grou
 {{< /column >}}
 
 {{< /row >}}
+
+# Emerging buyers
+
+{{< row >}}
+
+{{< column >}}
+###### Emerging buyers, defined in this report, are either newly created companies or individuals seeking to disrupt the market and gain market share, entities that are showing increased M&A appetite for this space, or companies from other industries, looking to enhance their current offering through expansion into these sectors.
+
+Waterland-backed Intracto had a very active year in terms of M&A activity, with seven deals completed and over 670 people joining the group through these acquisitions. Today, Intracto is over 1,300 people-strong and a total turnover of €170m. Intracto’s goal is to become a technology-driven service agency that can serve customers end-to-end. Its acquisitions in 2020 included Booming (25 people, NL), One Shoe (45 people, NL), iValue (25 people, BE), Bake & Company (12 people, BE), Burst (50 people, NL) and two its largest acquisitions of the year – ISAAC, Dutch digital agency with 110 specialists, and We are you, the Netherlands-based agency group with over 400 people.
+
+At the start of the year, the Manchester-based group Social Chain outlined its “acquisition offensive” with an “aggressive scaling” of its international growth.. Right at the beginning of the year, Social Chain took a majority stake in conteam, one of Germany's largest owner-operated digital marketing agencies, and drtv.agency, a performance-based TV ad agency. In May 2020, the group made its biggest acquisition to date, acquiring 51% in a 40-people A4D with an annual turnover in excess of $35m. A4D is a Southern California-based digital performance marketing agency. The goal of the management is to grow via acquisitions to over $300m in revenue.
+
+W20, a San Francisco based Ardian-backed data-driven marketing group, with a focus on health and wellness, has also been showing strong appetite for deal making since its backing from New Mountain Capital. At the start of the year, W20 acquired a Sweden-based healthcare advertising and medical education firm 21 Grams, and later, a healthcare industry-focused social media analytics platform Symplur. Its most recent acquisition was in the influencer space – Starpower. Starpower is a 40-people strong influencer marketing agency that has carved itself a niche in the healthcare space.
+
+{{< /column >}}
+
+{{< column >}}
+Fimalac was highlighted as an emerging buyer in 2019 report and in 2020 it has continued its activity with two bolt-on acquisitions for Jellyfish – Reamp and San Pancho, Latin American digital media companies, further expanding its presence in the region.
+
+Horizon Capital - backed global marketing and customer analytics consultancy Strat7, that was formed in 2019 through the merger of ResearchBods, Bonamy Finch and LiFE, acquired a London-based cultural insights and strategy firm Crowd DNA. The acquisition will further strengthen STRAT7’s ability to accelerate customer-centric growth and transformation for global brands.
+
+SQLI, a France-based digital experience agency group, has been demonstrating appetite for growth through acquisitions after several “quiet” years. In March 2020, SLI acquired 60% of the UK-based Redbox Digital, a digital commerce and design consultancy and one of the top Magento partners globally. The acquisition will see the company become part of the SQLI Commerce and Experience centre’s digital agency network. The centre features more than 600 experts in 11 European countries.
+
+Valtech, a global digital agency focused on business transformation, acquired Headways Media, a 120-people Mexico-based digital agency. By acquiring Headways Media, Valtech strengthens its Digital Marketing Services capability in LATAM, a service area that is seeing growth across industries seeking to personalize brand experiences and drive conversion in all digital channels.
+
+A European information technology consultancy and services company, Sopra Steria, has experienced a challenging few years in the UK and looked to invest in a rapidly expanding element of the consulting market: design services. As clients turn to consultants to provide holistic design and consulting services, Sopra Steria has acquired experience design consultancy cxpartners. Based in London and Bristol, cxpartners employs over 50 designers and is renowned for delivering award winning customer centric solutions for both the public and private sectors.
+
+{{< /column >}}
+
+{{< /row >}}
