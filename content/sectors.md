@@ -46,7 +46,6 @@ One of the key transactions involving a streaming service was Fox Corporation’
 {{< /column >}}
 
 {{< column >}}
-<!-- Image here -->
 
 The Machine Zone, the $5bn revenue company which created ‘Game of War’, was purchased by AppLovin, a portfolio company of KKR for $500m. This is the largest deal that AppLovin, the well-recognised gaming studios partnership has completed to date. Also, Stockholm-based global group of mobile gaming studios Stillfront Group purchased the mobile game developer Storm8, for $300m in cash, in addition to an earn-out consideration. Likewise, the cancellation of several global sporting events, including the “2020 Summer Olympics” in Tokyo, was a key driver in the e-sport platforms boom.
 
@@ -61,9 +60,7 @@ A noteworthy deal was the acquisition of the leading e-sports tournaments organi
 
 # Ciesco Team
 
-### Practitioners from the Industry and specialist Investment Bankers
-
-{{< container-image path="images/ciesco-team-1.jpg" method="Fit" options="600x900 jpg q100 Smart"  alt="team-1" >}}
+#### Practitioners from the Industry and specialist Investment Bankers
 
 
 # Ciesco featured deals
