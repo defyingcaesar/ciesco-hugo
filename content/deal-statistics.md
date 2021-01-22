@@ -23,27 +23,19 @@ Excluding this mega-deal, the total disclosed deal value in 2020 was $55.9bn, a 
 {{< /column >}}
 {{< /row >}}
 
-{{< row >}}
 </br></br>
-{{< /row >}}
 
 {{< container-image path="images/flowchart.jpg" method="Fit" options="1250x900 jpg q100 Smart"  alt="graph-1" >}}
 
-{{< row >}}
 </br></br>
-{{< /row >}}
 
 {{< container-image path="images/graph-1.jpg" method="Fit" options="1250x900 jpg q100 Smart"  alt="graph-2" >}}
 
-{{< row >}}
 </br></br>
-{{< /row >}}
 
 {{< container-image path="images/graph-2.jpg" method="Fit" options="1250x900 jpg q100 Smart"  alt="graph-3" >}}
 
-{{< row >}}
 </br></br>
-{{< /row >}}
 
 {{< row >}}
 
@@ -59,15 +51,12 @@ During Q3 and Q4 2020, the market managed to slightly bounce back, but deal volu
 
 {{< /row >}}
 
-{{< row >}}
 </br></br>
-{{< /row >}}
+</br></br>
 
 {{< container-image path="images/graph-3.jpg" method="Fit" options="1250x900 jpg q100 Smart"  alt="graph-3" >}}
 
-{{< row >}}
 </br></br>
-{{< /row >}}
 
 ## Notable deals
 
@@ -85,15 +74,12 @@ Last year, there were two notable deals - the acquisition of the MarTech platfor
 
 {{< /row >}}
 
-{{< row >}}
-</br>
-{{< /row >}}
+</br></br>
 
 {{< container-image path="images/table-1.jpg" method="Fit" options="1250x900 jpg q100 Smart"  alt="graph-3" >}}
 
-{{< row >}}
-</br>
-{{< /row >}}
+</br></br>
+
 {{< row >}}
 
 {{< column >}}

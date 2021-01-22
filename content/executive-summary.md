@@ -3,6 +3,7 @@ title: Executive Summary
 weight: 60
 draft: false
 url: /executive-summary/
+featured_image: /header-1.png/
 ---
 # Executive Summary
 {{< row >}}
