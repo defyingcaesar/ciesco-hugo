@@ -150,3 +150,34 @@ Some other notable deals of 2020 by tech acquirers were SAP’s acquisition of E
 {{< /column >}}
 
 {{< /row >}}
+
+# Mid-market buyers
+
+{{< row >}}
+
+{{< column >}}
+Data, platforms, digital experiences, advanced analytics, and speed are now the global foundations for modern marketing. This has driven advertisers to rethink their operating models, approach to tech, and role within the marketing value chain. In turn, they have turned to a new breed of marketing services firms that go beyond traditional media approaches to offer deep expertise on technology best practices, in-house team design and technical implementation, advanced measurement, and privacy. This trend only accelerated as COVID-19 made brands even more reliant on e-commerce and data-driven marketing. The companies that were in a position to ride this wave have grown in 2020 while less technologically advanced groups declined.
+
+Hakuhodo was the most active acquirer among the mid-market buyers category, with five majority and one minority acquisition completed in 2020. Its first acquisition in 2020 was its first M&A deal in India – Adglobal360, the fastest growing MarTech Company (ranked by Deloitte, 2019) The acquisition was quickly followed by another one in APAC – Growww Media Co, a Taiwanese agency group
+
+Hakuhodo’s, kyu collective was responsible for the rest of the acquisitions, including a US communications firm Gofrey Dadich Partners; and later kyu’s Canadian subsidiary Sid Lee acquired the LA-based social media agency Denizen. In December 2020, kyu’s Kepler acquired Infectious Media, a leading digital media specialist with offices in London and Singapore. Together, the group will have nearly 400 people globally. Hakuhodo also acquired a minority 25% stake in another UK-based company - a digital transformation consultancy Public Digital, with the option to increase to a majority interest in the future.
+
+S4 also completed five acquisitions in 2020. In the first half of the year, S4 acquired a Mexico-based digital marketing agency Circus Marketing and the Argentina-based Digodat, a data & analytics consultant (bolt-on to MightyHive).  In July, S4 raised an additional $100m to explore larger deals. Its following acquisitions were “bolt-on”s to its existing portfolio companies – MightyHive and Mediamonks. These included a 25-people Lens10 Pty, Australian digital strategy and analytics consultancy; Orca Pacific, a 40-people US-based Amazon specialist agency, and BrightBlue Consulting, a 25-people UK-based provider of data analytics and measurement consultancy services. All three of the above were merged with MightyHive. S4’s latest acquisition – a 80-people France-based digital creative agency Dare.Win, will be merged with Mediamonks, expanding its presence in France, Europe’s third largest advertising market. 
+{{< /column >}}
+
+{{< column >}}
+All of Bauer Media’s acquisitions were in the media and publishing space, across Australia, Germany and the UK.
+
+The Stagwell Group, a digital marketing and investment firm, made three acquisitions via its subsidiary firm. ForwardsPMX, Stagwell’s performance marketing agency, acquired Headliner Labsm a start-up that creates ecommerce tools; and SKDKnickerbocker, Stagwell’s public affairs and consulting firm, acquired Sloane & Company and Seward Square (both companies specializing in politics-related public affairs).
+
+Carlyle Group-backed Dept continued building its digital capabilities with the acquisition of Hinderling Volkart, a leading Swiss digital agency (60 people), Sorthvid, a Copenhagen-based strategic digital design agency (100 people), and most recently the company’s first acquisition in the US – a San Diego-based branding and digital design agency BASIC (120 people).
+
+Next15 also finished the year with three acquisitions - Nectar Communications, Craft Consulting and Future Thinking Group (via its data & insights group Savanta).
+
+Brandtech firm You & Mr Jones, which aims to give companies the tools to bring marketing work in-house, raised a $200 million funding round in late 2019, giving it a valuation of $1.3 billion. Its revenues rose 27 percent in organic terms in the first half of 2020 as COVID-19 increased the need for brands to accelerate their digital transformation. In August, it acquired Collectively, a US-based influencer marketing company, that it will combine with Amplify, with an aim of building “the world’s number-one genuinely global influencer capability”. You & Mr Jones also continued to focus on AI technology by announcing $4m investment in AI Foundation and in a IoT company Evrythng.
+
+Throughout the last financial year, ending on 30 June 2020, the Serviceplan Group, Europe’s largest independent agency group, has maintained market stability despite the unprecedented COVID-19 pandemic and its impact. At €448 million, global agency fees saw an increase on those of the previous year. In July, Serviceplan acquired one of the Netherlands’ leading media and digital marketing agencies – Mediaxplain, that is now the foundation of the Netherlands House of Communications. Later in the year, Serviceplan acquired a shareholding in the San Francisco- and New York-based Pereira O’Dell, a highly regarded digital creative agency, bolstering significantly the group’s creative capability in its US House of Communications.
+
+{{< /column >}}
+
+{{< /row >}}
