@@ -165,6 +165,7 @@ img {
   }
   
 /* Table of content Icons */
+span.toc-icon.menu-0 {background: #80aeca;color:#80aeca;}
 span.toc-icon.menu-1 {background: #ccd8e5;}
 span.toc-icon.menu-2 {background: #86a9d3;}
 span.toc-icon.menu-3 {background: #1a3663;}
