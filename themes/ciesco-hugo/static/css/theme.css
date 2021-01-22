@@ -1,3 +1,17 @@
+.row .col {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto; }
+
+.row h2 {
+  display: inline-block;
+  margin-bottom: 1.7rem; }
+
+.row h3 {
+  display: inline-block;
+  margin-bottom: 1.7rem; }
+
 /*!
  * Bootstrap v4.5.3 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors

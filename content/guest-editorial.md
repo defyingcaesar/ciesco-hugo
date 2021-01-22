@@ -19,7 +19,7 @@ The pandemic has demonstrated that we are more reliant on technology and digital
 
 Companies across the sector have a big opportunity to tap into this rapidly increasing demand for digitisation and tech solutions as we move into 2021 – and the support of a dedicated private equity partner can be key to maximising growth and success.
 
-###### Growing in partnership
+### Growing in partnership
 
 LDC has a strong track record of partnering with technology firms to drive growth. Across the UK, we have supported more than 130 technology and digital businesses with over £1billion of capital and we have invested £550million in the sector in the last five years alone.
 
@@ -30,7 +30,7 @@ And in July 2020, we supported the merger of DoubleEdge Professional Services, F
 {{< /column >}}
 {{< column >}}
 
-###### Championing expansion
+### Championing expansion
 
 But it’s not just about the up-front investment. Our backing can help management teams target international expansion, grow through acquisition, and roll out new products and services – and the successes of our portfolio speak for themselves. 
 Take Texthelp, the leading global provider of literacy and numeracy assistive technologies. Over an 18-month partnership, we helped Texthelp expand its footprint across North America, shift its marketing strategy from nearly 100% events focused to 100% digital, revamp its pricing and discounting strategies and launch its new cloud-based writing assessment tool WriQ, all whilst growing revenues by 40 per cent.  This led to a highly successful onward sale transaction for all parties to a secondary PE Buyer, Five Arrows Principal Investments in December 2020, where Texthelp plans to continue its global expansion as well as its new product development pipeline.

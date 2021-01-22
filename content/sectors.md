@@ -61,8 +61,9 @@ A noteworthy deal was the acquisition of the leading e-sports tournaments organi
 
 # Ciesco Team
 
-## Practitioners from the Industry and specialist Investment Bankers
+### Practitioners from the Industry and specialist Investment Bankers
 
-<!-- Team image -->
+{{< container-image path="images/ciesco-team-1.jpg" method="Fit" options="600x900 jpg q100 Smart"  alt="team-1" >}}
+
 
 # Ciesco featured deals
