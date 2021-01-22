@@ -126,7 +126,9 @@ EY completed only one acquisition – digital design and customer experience age
 {{< column >}}
 ###### Global technology firms have been active buyers in the space for the last few years. In 2019 their focus was on data and content production-focused companies, whereas in 2020, unsurprisingly, we saw the shift to digital media, video gaming, cloud-based solutions and online marketplaces.
 
-Cognizant, US-based IT services giant, focused on four growth areas in its acquisition strategy in 2020: IoT, Cloud, AI and Analytics and software product engineering. With seven relevant acquisitions, the company was the most acquisitive tech firm in this space in 2020. 
+Cognizant, US-based IT services giant, focused on four growth areas in its acquisition strategy in 2020: IoT, Cloud, AI and Analytics and software product engineering. With seven relevant acquisitions, the company was the most acquisitive tech firm in this space in 2020.
+
+{{< container-image path="images/brian-humphreys-quote.png" method="Fit" options="700x536 png q100 Smart" alt="global-holding-networks" >}}
 
 In February, Cognizant acquired EI-Technologies, France-based leading European Salesforce platform specialist and in March - Lev, a digital marketing consultancy that helps businesses modernize their marketing campaigns with data-driven insights
 
