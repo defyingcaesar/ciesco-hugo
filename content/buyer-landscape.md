@@ -90,6 +90,8 @@ Havas announced the acquisition of Cicero Group with offices in London, Brussels
 # Consultancies
 
 {{< container-image path="images/consultancies.png" method="Fit" options="700x536 png q100 Smart" alt="global-holding-networks" >}}
+</br>
+</br>
 
 {{< row >}}
 
@@ -154,6 +156,9 @@ Some other notable deals of 2020 by tech acquirers were SAP’s acquisition of E
 # Mid-market buyers
 
 {{< container-image path="images/mid-market-buyers.png" method="Fit" options="700x536 png q100 Smart" alt="global-holding-networks" >}}
+</br>
+</br>
+
 
 {{< row >}}
 
@@ -188,6 +193,8 @@ Throughout the last financial year, ending on 30 June 2020, the Serviceplan Grou
 
 
 {{< container-image path="images/emerging-buyers.png" method="Fit" options="700x536 png q100 Smart" alt="global-holding-networks" >}}
+</br>
+</br>
 
 {{< row >}}
 
