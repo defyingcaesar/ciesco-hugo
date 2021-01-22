@@ -153,6 +153,8 @@ Some other notable deals of 2020 by tech acquirers were SAP’s acquisition of E
 
 # Mid-market buyers
 
+{{< container-image path="images/mid-market-buyers.png" method="Fit" options="700x536 png q100 Smart" alt="global-holding-networks" >}}
+
 {{< row >}}
 
 {{< column >}}
@@ -184,6 +186,9 @@ Throughout the last financial year, ending on 30 June 2020, the Serviceplan Grou
 
 # Emerging buyers
 
+
+{{< container-image path="images/emerging-buyers.png" method="Fit" options="700x536 png q100 Smart" alt="global-holding-networks" >}}
+
 {{< row >}}
 
 {{< column >}}
@@ -205,6 +210,7 @@ Horizon Capital - backed global marketing and customer analytics consultancy Str
 SQLI, a France-based digital experience agency group, has been demonstrating appetite for growth through acquisitions after several “quiet” years. In March 2020, SLI acquired 60% of the UK-based Redbox Digital, a digital commerce and design consultancy and one of the top Magento partners globally. The acquisition will see the company become part of the SQLI Commerce and Experience centre’s digital agency network. The centre features more than 600 experts in 11 European countries.
 
 Valtech, a global digital agency focused on business transformation, acquired Headways Media, a 120-people Mexico-based digital agency. By acquiring Headways Media, Valtech strengthens its Digital Marketing Services capability in LATAM, a service area that is seeing growth across industries seeking to personalize brand experiences and drive conversion in all digital channels.
+
 
 A European information technology consultancy and services company, Sopra Steria, has experienced a challenging few years in the UK and looked to invest in a rapidly expanding element of the consulting market: design services. As clients turn to consultants to provide holistic design and consulting services, Sopra Steria has acquired experience design consultancy cxpartners. Based in London and Bristol, cxpartners employs over 50 designers and is renowned for delivering award winning customer centric solutions for both the public and private sectors.
 
