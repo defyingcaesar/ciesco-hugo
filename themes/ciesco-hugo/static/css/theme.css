@@ -16,6 +16,13 @@
   display: inline-block;
   margin-bottom: 1.5rem; }
 
+p b {
+  font-weight: bold;
+  color: #12264b; }
+  p b strong {
+    font-weight: bold;
+    color: #12264b; }
+
 /*!
  * Bootstrap v4.5.3 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors

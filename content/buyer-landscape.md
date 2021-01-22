@@ -44,11 +44,12 @@ S4 Capital, the acquisition vehicle of Sir Martin Sorrell, made a few headlines 
 </br>
 {{< row >}}
 {{< column >}}
-After sluggish activity in 2019 it was expected that the global holding networks would pick up the pace in 2020 but again their emphasis was on putting their houses in order in terms of restructuring, consolidation, and senior management changes across many of their network agencies – with continued announcements of a series of considered internal company mergers. With priorities elsewhere, not least repercussions from the COVID-19 pandemic, it was then unsurprising that only a total of 15 acquisitions were completed in the year, a marked decrease of 42% versus 2019.
 
-There has been a dramatic decrease from the halcyon days of 2016 when 95 deals were completed by the Big Six holding networks representing 8% of all activity that year. Their acquisition strategy and direction has changed over the past four years with digital, data and technology overall playing a major part of their focus and needs as they continue to be able to future proof their businesses, capabilities, and offerings – and at scale across multiple geographies. The competitive set, notably from the Consultancies, has made that more challenging as they are no longer the first or natural choice for the would-be seller in the market within the overall Buyer landscape.
+**After sluggish activity in 2019 it was expected that the global holding networks would pick up the pace in 2020 but again their emphasis was on putting their houses in order in terms of restructuring, consolidation, and senior management changes across many of their network agencies** – with continued announcements of a series of considered internal company mergers. With priorities elsewhere, not least repercussions from the COVID-19 pandemic, it was then unsurprising that only a total of 15 acquisitions were completed in the year, a marked decrease of 42% versus 2019.
 
-Dentsu was once again the most acquisitive, a mantle they have held for the past three years, with 6 transactions conducted via three of their operating companies – Merkle, Voyange Group and
+**There has been a dramatic decrease from the halcyon days of 2016 when 95 deals were completed by the Big Six holding networks representing 8% of all activity that year.** Their acquisition strategy and direction has changed over the past four years with digital, data and technology overall playing a major part of their focus and needs as they continue to be able to future proof their businesses, capabilities, and offerings – and at scale across multiple geographies. The competitive set, notably from the Consultancies, has made that more challenging as they are no longer the first or natural choice for the would-be seller in the market within the overall Buyer landscape.
+
+**Dentsu** was once again the most acquisitive, a mantle they have held for the past three years, with 6 transactions conducted via three of their operating companies – Merkle, Voyange Group and
 
 {{< /column >}}
 
@@ -56,9 +57,9 @@ Dentsu was once again the most acquisitive, a mantle they have held for the past
 Cmer TV – across the US and Japan markets. This was against a back-drop of the announcement that that the current Dentsu Inc will shift to a "pure holding company structure" in January and its trade name will be changed to Dentsu Group Inc.  A new in-house company, Dentsu Japan Network, will also be established to run the group's overall operations in Japan. In parallel, Dentsu Aegis Network will run international operations. In combination, Dentsu also announced plans to reduce agency brands from 160 to just 6 with Mcgarrybowen the first to see impact from this restructuring.
 
 
-WPP was back on the radar with four acquisitions across NZ, the USA and UK. WPP continued to review their multiple global agency network operations and following their previous mergers in forming new entities in VMLY&R and Wunderman Thompson, Finsbury Glover Hering, they surprised the industry further in November by merging AKQI with Grey, which was founded in 1917, to create what they have positioned as an “industry powerhouse” that fuses Grey’s “creative storytelling” with AKQA’s “world-class innovation". The new entity is to be called AKQA Group. Additionally, Mark Read reinforced his belief in the vibrant future of ecommerce business, further enhanced by aggressive online sales throughout the pandemic, by announcing the merger of Geometry into VMLY&R, to create VMLY&R Commerce.
+**WPP** was back on the radar with four acquisitions across NZ, the USA and UK. WPP continued to review their multiple global agency network operations and following their previous mergers in forming new entities in VMLY&R and Wunderman Thompson, Finsbury Glover Hering, they surprised the industry further in November by merging AKQI with Grey, which was founded in 1917, to create what they have positioned as an “industry powerhouse” that fuses Grey’s “creative storytelling” with AKQA’s “world-class innovation". The new entity is to be called AKQA Group. Additionally, Mark Read reinforced his belief in the vibrant future of ecommerce business, further enhanced by aggressive online sales throughout the pandemic, by announcing the merger of Geometry into VMLY&R, to create VMLY&R Commerce.
 
-Havas made two acquisitions, respectively in the UK and Australia, with Publicis, IPG and Omnicom each recording a single acquisition.
+**Havas** made two acquisitions, respectively in the UK and Australia, with **Publicis, IPG and Omnicom** each recording a single acquisition.
 {{< /column >}}
 
 {{< /row >}}
@@ -220,6 +221,43 @@ Valtech, a global digital agency focused on business transformation, acquired He
 
 
 A European information technology consultancy and services company, Sopra Steria, has experienced a challenging few years in the UK and looked to invest in a rapidly expanding element of the consulting market: design services. As clients turn to consultants to provide holistic design and consulting services, Sopra Steria has acquired experience design consultancy cxpartners. Based in London and Bristol, cxpartners employs over 50 designers and is renowned for delivering award winning customer centric solutions for both the public and private sectors.
+
+{{< /column >}}
+
+{{< /row >}}
+
+# Private equity
+
+{{< row >}}
+
+{{< column >}}
+
+###### In the context of a year in which our technology, digital, media and marketing sectors showed a significant overall reduction in global deal volumes compared to 2019, it is not surprising that the number of private equity deals in this universe declined by 29%. However private equity investors collectively proved resilient in these sectors, representing 38% of all buyers in 2020 compared to 42% in 2019. Notably that is still much higher than the levels of 10% in 2016 and 13% in 2017, and demonstrates the attractiveness to financial backers of technology driven business models in the digital world.
+
+Whilst deal values are often not disclosed in PE transactions, our research suggests that the value of PE funded deals in this arena declined by around 70% in 2020, a dramatic reduction and of course directly attributable to the pandemic environment.
+
+The value and volume numbers therefore indicate that a greater number of smaller deals were done by PE funds. Notably no deals of over $4bn value occurred in 2020 compared to 2 or 3 in each of the preceding years. The focus was primarily on bolstering existing portfolio companies and far away from seeking new blockbuster investments. Having said that it is well recognised that in the 2008 and 2009 financial crisis, PE funds made some of their best subsequent returns from continuing to invest in that period. This is likely to prove the same again for 2020 and 2021.
+
+We estimate the total value of PE backed deals in our universe in 2020 to be $17bn. Whilst that compares negatively to $57bn the year before, it is comfortably ahead of the figures for 2016, 2017 and 2018. The 2019 number is the outlier due to a number of mega deals. The digital economy remains one of the most vibrant across the waterfront with significant opportunities for value creation.
+
+
+
+{{< /column >}}
+
+{{< column >}}
+In our view the key factors that shaped 2020 for PE funds in a globally locked down environment are:
+
+- Initial requirement to focus investment on existing portfolio companies’ operating activities. This mirrored quoted markets where in the first half of the year there was a huge volume of funds raised for established listed businesses to secure their balance sheets.
+
+- A general move then to a focus on backing M&A activity for existing portfolio companies to strengthen market positions and future-proof the businesses. Inevitably follow-on funding points to relatively smaller deals than new investments, but nevertheless a healthy volume of deals.
+
+- A reduction in pure cross border M&A due to travel restrictions and a greater focus on local opportunities – again pointing to more modest deal sizes.
+
+- A major drive to online activities for consumers, businesses and governments spurred by the physical restrictions of COVID, providing a raft of value creation opportunities in the technology, digital, media and marketing sectors.
+
+- All businesses needing to increase efficiencies and seek cost effective modes of operation, in the light of external pressures on revenue growth, meaning that companies providing information monitoring and analysis, data analytics, CRM and digital media solutions represent very attractive investment areas for PE.
+
+- A scarcity of investable companies coming forward, preferring to wait for a better economic environment, meaning that fewer investment opportunities have been available -  conversely a sellers’ market for those companies that did come forward
 
 {{< /column >}}
 

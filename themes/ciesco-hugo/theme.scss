@@ -28,6 +28,17 @@ $theme-colors: (
   }
 }
 
+p {
+  b {
+      font-weight: bold;
+      color: #12264b;
+      strong {
+        font-weight: bold;
+        color: #12264b;
+    }
+    }
+}
+
 $enable-rounded: false;
 $enable-shadows: false;
 $enable-gradients: false;
