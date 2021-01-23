@@ -70,8 +70,10 @@ Canada recorded a **33% year-on-year** drop in its transactions volume. In May, 
 {{< /column >}}
 
 {{< column >}}
+
 </br>
 {{< container-image path="images/geographic-overview-right.png" method="Fit" options="400x240 png q100 Smart"  alt="geo" >}}
+</br>
 </br>
 
 ##### Eastern Europe
