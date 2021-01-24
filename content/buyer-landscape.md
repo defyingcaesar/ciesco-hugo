@@ -39,7 +39,7 @@ S4 Capital, the acquisition vehicle of Sir Martin Sorrell, made a few headlines 
 
 # Global holding networks
 
-{{< container-image path="images/global-holding-networks-6.png" method="Fit" options="1250x600 png q100 Smart" alt="global-holding-networks" >}}
+{{< container-image path="images/global-holding-networks-6.png" method="Fit" options="1250x900 png q100 Smart" alt="global-holding-networks" >}}
 </br>
 </br>
 {{< row >}}
@@ -86,10 +86,12 @@ Some highlights in 2020 included **Dentsu** acquiring Santa Clara based **E-Nor*
 
 {{< /row >}}
 
-
+{{< row >}}
 # Consultancies
+{{< /row >}}
 
-{{< container-image path="images/consultancies.png" method="Fit" options="700x536 png q100 Smart" alt="global-holding-networks" >}}
+{{< container-image path="images/consultancies.png" method="Fit" options="1250x900 png q100 Smart" alt="global-holding-networks" >}}
+
 </br>
 </br>
 
