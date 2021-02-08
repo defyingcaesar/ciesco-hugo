@@ -56,11 +56,21 @@ A noteworthy deal was the acquisition of the leading e-sports tournaments organi
 
 {{< /row >}}
 
-<!-- Table -->
+{{< container-image path="images/sector-spotligh-table.png" method="Fit" options="900x600 png q100 Smart"  alt="graph-3" >}}
+</br>
 
 # Ciesco Team
 
 #### Practitioners from the Industry and specialist Investment Bankers
 
+Note- Need some assistance on the team images.
 
 # Ciesco featured deals
+
+{{< container-image path="images/sale-side-advisor.png" method="Fit" options="900x600 png q100 Smart"  alt="graph-3" >}}
+</br>
+{{< container-image path="images/sale-side-advisor-2.png" method="Fit" options="900x600 png q100 Smart"  alt="graph-3" >}}
+</br>
+{{< container-image path="images/sale-side-advisor-3.png" method="Fit" options="900x600 png q100 Smart"  alt="graph-3" >}}
+</br>
+{{< container-image path="images/sale-side-advisor-3.png" method="Fit" options="900x600 png q100 Smart"  alt="graph-3" >}}
