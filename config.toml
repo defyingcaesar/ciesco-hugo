@@ -6,49 +6,49 @@ googleAnalytics = "UA-xxxxx-1"
 disableRss = true
 [menu]
     [[menu.main]]
-    identifier = "0"
+    identifier = "1"
     weight = 1
     name = "About & Foreword"
     url = "/about-foreword/"
 
     [[menu.main]]
-    identifier = "1"
+    identifier = "2"
     weight = 2
     name = "Guest Editorials"
     url = "/guest-editorials/"
 
     [[menu.main]]
-    identifier = "2"
+    identifier = "3"
     weight = 3
     name = "Executive Summary"
     url = "/executive-summary/"
     
     [[menu.main]]
-    identifier = "3"
+    identifier = "4"
     weight = 4
     name = "Ciesco Outlook"
     url = "/ciesco-outlook/"
     
     [[menu.main]]
-    identifier = "4"
+    identifier = "5"
     weight = 5
     name = "Deal Statistics"
     url = "/deal-statistics/"
     
     [[menu.main]]
-    identifier = "5"
+    identifier = "6"
     weight = 6
     name = "Buyer Landscape"
     url = "/buyer-landscape/"
     
     [[menu.main]]
-    identifier = "6"
+    identifier = "7"
     weight = 7
     name = "Geographic Overview"
     url = "/geographic-overview/"
     
     [[menu.main]]
-    identifier = "7"
+    identifier = "8"
     weight = 8
     name = "Sectors"
     url = "/sectors/"
