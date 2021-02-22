@@ -39,7 +39,7 @@ img {
   .sidebar-sticky {
     max-width:25%;
     border-right:2px solid #12264B;
-    margin-top:75px;
+    margin-top:45px;
     height: calc(100vh - 140px);
     top:48px;
     padding-top: .5rem;
