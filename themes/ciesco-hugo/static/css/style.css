@@ -204,3 +204,6 @@ b.strong {
   h3 {
     line-height: 1.65rem;
   }
+.title {
+  color: #000000;
+}
